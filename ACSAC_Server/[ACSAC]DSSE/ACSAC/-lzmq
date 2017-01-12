@@ -1,0 +1,140 @@
+Debug/DSSE.cpp.o: \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE.cpp \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/MasterKey.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_Param.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_Hashmap_Key_Class.h \
+ /scratch/simulation_thanghoang/include/sparsehash/dense_hash_map \
+ /scratch/simulation_thanghoang/include/sparsehash/internal/sparseconfig.h \
+ /scratch/simulation_thanghoang/include/sparsehash/internal/densehashtable.h \
+ /scratch/simulation_thanghoang/include/sparsehash/internal/hashtable-common.h \
+ /scratch/simulation_thanghoang/include/sparsehash/internal/libc_allocator_with_realloc.h \
+ /scratch/simulation_thanghoang/include/sparsehash/type_traits.h \
+ /scratch/simulation_thanghoang/include/sparsehash/template_util.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/jg_timing.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/tomcrypt_cpp.h \
+ /scratch/simulation_thanghoang/include/tomcrypt.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_custom.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_cfg.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_macros.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_cipher.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_hash.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_mac.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_prng.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_pk.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_math.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_misc.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_argchk.h \
+ /scratch/simulation_thanghoang/include/tomcrypt_pkcs.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_MatrixType.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_SearchToken.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/CTokenInfo.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_Param.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/Client_DSSE.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/MasterKey.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_MatrixType.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_OperationToken.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_Hashmap_Key_Class.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_IndexRequest.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_threadPrecomputedKey.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_OperationToken.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_threadDataTransmit.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_threadGetKeyInfo.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_threadCreateNewDataRepresentation.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/Keyword_Extraction.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/Miscellaneous.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_Trapdoor.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_FileCrypt.h \
+ /scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_KeyGen.h
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/MasterKey.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_Param.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_Hashmap_Key_Class.h:
+
+/scratch/simulation_thanghoang/include/sparsehash/dense_hash_map:
+
+/scratch/simulation_thanghoang/include/sparsehash/internal/sparseconfig.h:
+
+/scratch/simulation_thanghoang/include/sparsehash/internal/densehashtable.h:
+
+/scratch/simulation_thanghoang/include/sparsehash/internal/hashtable-common.h:
+
+/scratch/simulation_thanghoang/include/sparsehash/internal/libc_allocator_with_realloc.h:
+
+/scratch/simulation_thanghoang/include/sparsehash/type_traits.h:
+
+/scratch/simulation_thanghoang/include/sparsehash/template_util.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/jg_timing.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/tomcrypt_cpp.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_custom.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_cfg.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_macros.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_cipher.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_hash.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_mac.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_prng.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_pk.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_math.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_misc.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_argchk.h:
+
+/scratch/simulation_thanghoang/include/tomcrypt_pkcs.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_MatrixType.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_SearchToken.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/CTokenInfo.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_Param.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/Client_DSSE.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/MasterKey.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_MatrixType.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_OperationToken.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_Hashmap_Key_Class.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_IndexRequest.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_threadPrecomputedKey.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_OperationToken.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_threadDataTransmit.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_threadGetKeyInfo.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/struct_threadCreateNewDataRepresentation.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/Keyword_Extraction.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/Miscellaneous.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_Trapdoor.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_FileCrypt.h:
+
+/scratch/simulation_thanghoang/ACSAC_Server/[ACSAC]DSSE/ACSAC/DSSE_KeyGen.h:

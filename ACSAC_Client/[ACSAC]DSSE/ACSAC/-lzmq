@@ -1,0 +1,135 @@
+Debug/DSSE.cpp.o: \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE.cpp \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/MasterKey.h \
+ DSSE_Param.h DSSE_Hashmap_Key_Class.h \
+ /scratch/include/sparsehash/dense_hash_map \
+ /scratch/include/sparsehash/internal/sparseconfig.h \
+ /scratch/include/sparsehash/internal/densehashtable.h \
+ /scratch/include/sparsehash/internal/hashtable-common.h \
+ /scratch/include/sparsehash/internal/libc_allocator_with_realloc.h \
+ /scratch/include/sparsehash/type_traits.h \
+ /scratch/include/sparsehash/template_util.h jg_timing.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/tomcrypt_cpp.h \
+ /scratch/include/tomcrypt.h /scratch/include/tomcrypt_custom.h \
+ /scratch/include/tomcrypt_cfg.h /scratch/include/tomcrypt_macros.h \
+ /scratch/include/tomcrypt_cipher.h /scratch/include/tomcrypt_hash.h \
+ /scratch/include/tomcrypt_mac.h /scratch/include/tomcrypt_prng.h \
+ /scratch/include/tomcrypt_pk.h /scratch/include/tomcrypt_math.h \
+ /scratch/include/tomcrypt_misc.h /scratch/include/tomcrypt_argchk.h \
+ /scratch/include/tomcrypt_pkcs.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_MatrixType.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_SearchToken.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/CTokenInfo.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE_Param.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/Client_DSSE.h \
+ MasterKey.h struct_MatrixType.h struct_OperationToken.h DSSE_Param.h \
+ DSSE_Hashmap_Key_Class.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_IndexRequest.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_threadPrecomputedKey.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_OperationToken.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_threadDataTransmit.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_threadGetKeyInfo.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE_Hashmap_Key_Class.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_threadCreateNewDataRepresentation.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/Keyword_Extraction.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/Miscellaneous.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE_Trapdoor.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE_FileCrypt.h \
+ /scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE_KeyGen.h
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/MasterKey.h:
+
+DSSE_Param.h:
+
+DSSE_Hashmap_Key_Class.h:
+
+/scratch/include/sparsehash/dense_hash_map:
+
+/scratch/include/sparsehash/internal/sparseconfig.h:
+
+/scratch/include/sparsehash/internal/densehashtable.h:
+
+/scratch/include/sparsehash/internal/hashtable-common.h:
+
+/scratch/include/sparsehash/internal/libc_allocator_with_realloc.h:
+
+/scratch/include/sparsehash/type_traits.h:
+
+/scratch/include/sparsehash/template_util.h:
+
+jg_timing.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/tomcrypt_cpp.h:
+
+/scratch/include/tomcrypt.h:
+
+/scratch/include/tomcrypt_custom.h:
+
+/scratch/include/tomcrypt_cfg.h:
+
+/scratch/include/tomcrypt_macros.h:
+
+/scratch/include/tomcrypt_cipher.h:
+
+/scratch/include/tomcrypt_hash.h:
+
+/scratch/include/tomcrypt_mac.h:
+
+/scratch/include/tomcrypt_prng.h:
+
+/scratch/include/tomcrypt_pk.h:
+
+/scratch/include/tomcrypt_math.h:
+
+/scratch/include/tomcrypt_misc.h:
+
+/scratch/include/tomcrypt_argchk.h:
+
+/scratch/include/tomcrypt_pkcs.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_MatrixType.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_SearchToken.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/CTokenInfo.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE_Param.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/Client_DSSE.h:
+
+MasterKey.h:
+
+struct_MatrixType.h:
+
+struct_OperationToken.h:
+
+DSSE_Param.h:
+
+DSSE_Hashmap_Key_Class.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_IndexRequest.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_threadPrecomputedKey.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_OperationToken.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_threadDataTransmit.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_threadGetKeyInfo.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE_Hashmap_Key_Class.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/struct_threadCreateNewDataRepresentation.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/Keyword_Extraction.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/Miscellaneous.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE_Trapdoor.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE_FileCrypt.h:
+
+/scratch/DSSE/src/ACSAC_Client/[ACSAC]DSSE/ACSAC/DSSE_KeyGen.h:
